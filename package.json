@@ -1,0 +1,13 @@
+{
+  "name": "stefan-prompt-language",
+  "version": "1.0.0",
+  "description": "A way to parse a prompt by using a simple syntax, useful for GPT and other AI models that require a prompt.",
+  "main": "parse.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Stefan Denis",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.10"
+  }
+}
