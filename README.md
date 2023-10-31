@@ -5,6 +5,11 @@
 npm i stefan-prompt-language
 ```
 
+## Make sure to download the vscode extension for .stefan files at:
+```
+https://github.com/Stefan-Software/Stefan-Prompt-Language-Support-Package
+```
+
 ## What it does
 
 The langauge takes a .stefan markup file and it can take values inside javascript/typescript and parse them to a string.
